@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+# files that are too large to upload 
+Daily_County-Level_Ozone_Concentrations__2001-2016.csv
+Daily_PM2.5_Concentrations_All_County__2001-2016(1).csv
