@@ -5,14 +5,14 @@
 
 Resources need to be reviewed:
 <BR><BR>
-• 2cancer_death.csv - altered version of original CSV
+• cancer_death.csv
 <BR>
 REVIEW: Altered csv need nulls &extra chars rem'vd
 
 <BR>
 <BR>
   
-• 2cancer_incidence.csv - altered version of original CSV
+• cancer_incidence.csv
 <BR>
 REVIEW: Extra characters need to be removed
   
