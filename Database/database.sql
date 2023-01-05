@@ -2,11 +2,12 @@
 -- DROP TABLE county
 CREATE TABLE county (
      county_name varchar(40) NOT NULL,
-     fips_no INT(6) NOT NULL,
+     fips_no INT NOT NULL,
      PRIMARY KEY (fips_no)
 );
 
 SELECT * FROM county
+
 
 
 
@@ -23,17 +24,6 @@ CREATE TABLE cancer_rates (
 
 SELECT * FROM cancer_rates
 
-
-
--- create table for model_dataset
--- update as necessary
--- DROP TABLE model_dataset
-CREATE TABLE model_dataset (
-	fips_no INT NOT NULL,
-	PRIMARY KEY (fips_no)
-);
-
-SELECT * FROM model_dataset
 
 
 
@@ -64,3 +54,57 @@ CREATE TABLE pm_pollution (
 );
 
 SELECT * FROM pm_pollution
+
+
+-- create table for model_data_template
+-- DROP TABLE model_data_template
+
+CREATE TABLE model_data_template (
+	fips_no INT NOT NULL,
+	recent_trends VARCHAR (10) NOT NULL,
+	max_pred_pm DEC NOT NULL,
+	min_pred_pm DEC NOT NULL,
+	mean_pred_pm DEC NOT NULL,
+	max_pred_pm_01 DEC NOT NULL,
+	min_pred_pm_01 DEC NOT NULL,
+	mean_pred_pm_01 DEC NOT NULL,
+	AAA DEC NOT NULL,
+	max_pred_pm_14 DEC NOT NULL,
+	min_pred_pm_14 DEC NOT NULL,
+	mean_pred_pm_14 DEC NOT NULL,
+	max_pred_oz DEC NOT NULL,
+	min_pred_oz DEC NOT NULL,
+	mean_pred_oz DEC NOT NULL,
+	max_pred_oz_01 DEC NOT NULL,
+	min_pred_oz_01 DEC NOT NULL,
+	mean_pred_oz_01 DEC NOT NULL,
+	BBB DEC NOT NULL,
+	max_pred_oz_14 DEC NOT NULL,
+	min_pred_oz_14 DEC NOT NULL,
+	mean_pred_oz_14 DEC NOT NULL,
+	CCC DEC NOT NULL
+
+	);
+
+
+SELECT * FROM model_data_template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
