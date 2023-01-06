@@ -1,4 +1,4 @@
-# Predicting cancer incidence and death rates associated with environmental pollutants
+# Predicting cancer incidence and death rate associated with environmental pollutants
 
   
  ### Why we choose this project
