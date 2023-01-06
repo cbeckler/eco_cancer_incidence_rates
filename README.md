@@ -8,7 +8,8 @@ Project to demonstrate comprehensive data science skills
  
   
  ### Why did we choose this project?
-We want to use AI for for the benefit of the public, especially public health and environmental concerns.
+
+A study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks from Long-term Exposure to Ambient Fine Particle</a>,  
 <BR>
 <BR>
   
