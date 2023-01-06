@@ -1,5 +1,9 @@
 # Predicting cancer incidence and death rate associated with environmental pollutants
 
+
+ADD: Explain why a database is important, steps I took to create, refine, and manage the database.
+<BR>
+<BR>
   
  ### Why we choose this project
 
@@ -40,9 +44,6 @@ Our team's interest and experience in community health, and the environmental co
 • Meeting 2-3 times a week via Zoom  
 <BR><BR>
 <img src="https://github.com/cbeckler/final_project/blob/mg_SQL/Database/QuickDB.png">
-  
-  
-  
   
   
 ----
