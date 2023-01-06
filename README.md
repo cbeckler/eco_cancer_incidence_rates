@@ -17,7 +17,10 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Are the rates of cancer death in counties with more pollution higher than in those with moderate and lower PM rates?
 <BR>
+• Are specific years more impactful than others?
 <BR>
+<BR>
+
  
 <strong> Team members and their roles:</strong><Br>
 <a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - ETL, data engineering
@@ -41,11 +44,4 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
-<BR>
-What questions we hope to answer:
-<BR>
-• Are cancer rates affected by environmental pollutants
-<BR>
-• Are specific years more impactful than others
-<BR>
-<BR>
+
