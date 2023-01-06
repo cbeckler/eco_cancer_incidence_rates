@@ -2,12 +2,12 @@
 Project to demonstrate comprehensive data science skills
 <BR>
 <BR>
-## Stand-in title: Tracking the incidence of cancer by county cross-referenced with pollution levels
+## Tracking the incidence of cancer by county cross-referenced with pollution levels
 <BR>
 <BR>
  
   
- ### Reasons we chose this project
+ ### Why did we choose this project?
 We want to use AI for for the benefit of the public, especially public health and environmental concerns.
 <BR>
 <BR>
