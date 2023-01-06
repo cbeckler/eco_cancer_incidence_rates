@@ -30,7 +30,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer
 
-<BR><BR>
+<BR>
 <strong>Communication Methods</strong>
 <BR>
 • Slack for daily communication
