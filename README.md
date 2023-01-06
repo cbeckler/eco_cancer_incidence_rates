@@ -11,10 +11,30 @@ Project to demonstrate comprehensive data science skills
 
 A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks from Long-term Exposure to Ambient Fine Particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) are associated with a higher risk of cancer in various organs. In fact, the study showed that for every 10 µg/m3 of increased PM2.5 exposure the risk of dying from cancer rose 22%.
 <BR><BR>
-Our team's interest and experience in community health, and the environmental concerns that affect it, are what led us to create this project.
+Our team's interest and experience in community health, and the environmental concerns that affect it, are what led us to create this project. We have scaled the data down to represent select counties in the United States.
 <BR>
 
 ### Communication Protocols
+<strong>Type of data used:</strong><BR>
+• We are using data sources (citations below) from Kaggle and the CDC, primarily in CSV form.
+<BR>
+<Strong> Our mission is to predict the following: <br>
+• Do the levels of air particulate matter affect the number of cancer instances in the United States?
+<BR>
+• Are the rates of cancer death in counties with more pollution higher than in those with moderate and lower PM rates?
+<BR>
+ 
+<strong> Team members and their roles:</strong>
+<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - ETL, data engineering
+<BR>
+ <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering
+<BR>
+ <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - Database Administator
+<BR>
+ <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer
+
+
+
 
 
   
