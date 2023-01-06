@@ -45,8 +45,6 @@ Role Description:
 
 ----
 
-
-
   
   ### Data sources
 
