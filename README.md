@@ -10,7 +10,7 @@ Our team's interest and experience in community health, and the environmental co
 
 ### Communication Protocols
 <strong>Type of data used:</strong><BR>
-• We are using data sources (citations below) from Kaggle and the CDC, primarily in CSV form.
+  • We are using data sources <a href="#sources"> (citations)</a> from Kaggle and the CDC, primarily in CSV form.
 <BR><BR>
  <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
@@ -46,7 +46,8 @@ Our team's interest and experience in community health, and the environmental co
   
   
 ----
-
+<a name="sources">
+<BR>
   
   ### Data sources
 
