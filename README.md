@@ -26,7 +26,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 
 <strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - ETL, data engineering
+<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - Team Leader, ETL, data engineering
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering
 <BR>
@@ -41,7 +41,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Github for sharing resources
 <BR>
-• Meeting 2-3 times a week via Zoom  
+• We meet 2-3 times a week as a group, with more individual meetings betweeen roles. 
 <BR><BR>
 <img src="https://github.com/cbeckler/final_project/blob/mg_SQL/Database/QuickDB.png">
   
