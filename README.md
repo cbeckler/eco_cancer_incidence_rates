@@ -1,15 +1,9 @@
-# final_project
-Project to demonstrate comprehensive data science skills
-<BR>
-<BR>
-## Tracking the incidence of cancer by county cross-referenced with pollution levels
-<BR>
-<BR>
- 
-  
- ### Why did we choose this project?
+# Predicting cancer incidence and death rates associated with environmental pollutants
 
-A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks from Long-term Exposure to Ambient Fine Particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) are associated with a higher risk of cancer in various organs. In fact, the study showed that for every 10 µg/m3 of increased PM2.5 exposure the risk of dying from cancer rose 22%.
+  
+ ### Why we choose this project
+
+A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks from Long-term Exposure to Ambient Fine Particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) are associated with a higher risk of cancer in various organs. In fact, the study showed that for every 10 µg/m3 of increased PM2.5 exposure <a href="https://www.aacr.org/patients-caregivers/progress-against-cancer/air-pollution-associated-cancer/">increased the risk of dying from cancer by 22%</a>.
 <BR><BR>
 Our team's interest and experience in community health, and the environmental concerns that affect it, are what led us to create this project. We have scaled the data down to represent select counties in the United States.
 <BR>
@@ -17,14 +11,15 @@ Our team's interest and experience in community health, and the environmental co
 ### Communication Protocols
 <strong>Type of data used:</strong><BR>
 • We are using data sources (citations below) from Kaggle and the CDC, primarily in CSV form.
-<BR>
-<Strong> Our mission is to predict the following: <br>
+<BR><BR>
+ <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
 <BR>
 • Are the rates of cancer death in counties with more pollution higher than in those with moderate and lower PM rates?
 <BR>
+<BR>
  
-<strong> Team members and their roles:</strong>
+<strong> Team members and their roles:</strong><Br>
 <a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - ETL, data engineering
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering
@@ -33,7 +28,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer
 
-
+----
 
 
 
