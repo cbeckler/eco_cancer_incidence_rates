@@ -11,6 +11,6 @@ Questions Machine Model will answer:
 <BR>
 • Are specific years more impactful than others?
 <BR>
-### Machine Learning Model Selection
+Machine Learning Model Selection:
 <BR>
 The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of it's ability to analyze the data and label the proper class. 
