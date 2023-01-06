@@ -15,7 +15,7 @@ Our team's interest and experience in community health, and the environmental co
  <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
 <BR>
-• Are the rates of cancer death in counties with more pollution higher than in those with moderate and lower PM rates?
+• Is the rate of cancer incidence in counties with more pollution higher than in those with moderate and lower PM rates?
 <BR>
 • Are specific years more impactful than others?
 <BR>
