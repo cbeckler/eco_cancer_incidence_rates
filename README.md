@@ -1,9 +1,5 @@
-# Predicting cancer incidence and death rate associated with environmental pollutants
+<!-- # Predicting cancer incidence and death rate associated with environmental pollutants
 
-
-ADD: Explain why a database is important, steps I took to create, refine, and manage the database.
-<BR>
-<BR>
   
  ### Why we choose this project
 
@@ -57,5 +53,5 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
-
+-->
 
