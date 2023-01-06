@@ -1,30 +1,16 @@
-# final_project
-Project to demonstrate comprehensive data science skills
+# Machine Learning Model
+## Segment 1: Model Mock Up
 <BR>
+The [Model Data Mock Up](Machine Learning Model/Resources/model_data_ML_Mock.xlsx) is the mock up of ther machine learning model inputs and outputs. The goal of the Machine Leanring Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. 
 <BR>
-## Stand-in title: Tracking the incidence of cancer by county cross-referenced with pollution levels
+Questions Machine Model will answer:
 <BR>
+• Do the levels of air particulate matter affect the number of cancer instances in the United States?
 <BR>
- 
-  
- ### Reasons we chose this project
-We want to use AI for for the benefit of the public, especially public health and environmental concerns.
+• Is the rate of cancer incidence in counties with more pollution higher than in those with moderate and lower PM rates?
 <BR>
+• Are specific years more impactful than others?
 <BR>
-  
-  ### Data sources
-
-<a href="https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download">Cancer Mortality & Incidence Rates</a>
+## Machine Learning Model Selection
 <BR>
-<a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">County-Level PM2.5, All Years</a>
-<BR>
- <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
-<BR>
-<BR>
-What questions we hope to answer:
-<BR>
-• Are cancer rates affected by environmental pollutants
-<BR>
-• Are specific years more impactful than others
-<BR>
-<BR>
+The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of it's ability to analyze the data and label the proper class. 
