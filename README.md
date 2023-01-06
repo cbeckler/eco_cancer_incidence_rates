@@ -22,13 +22,13 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 
 <strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - ETL, data engineering
+<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - Project leader, ETL, data engineering
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering
+ <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering, web development
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - Database Administator
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer
+ <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer, web development
 
 <BR>
 <strong>Communication Methods</strong>
