@@ -34,9 +34,9 @@ The goal of the Machine Leanring Model is to ingest the inputs of all counties I
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, data engineering, web development
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - Database Administator, writer
+ <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - ERD, database administator, writer
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine Learning/ Big Data Engineer, web development
+ <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine learning/ big data engineer, web development
 
 <BR>
 <strong>Communication Methods</strong>
@@ -47,7 +47,7 @@ The goal of the Machine Leanring Model is to ingest the inputs of all counties I
 <BR>
 • Meeting 2-3 times a week via Zoom  
 <BR><BR>
-<img src="https://github.com/cbeckler/final_project/blob/mg_SQL/Database/QuickDB.png">
+<img width = 1000 src="https://github.com/cbeckler/final_project/blob/mg_SQL/ERD/model_dataset_erd.png">
   
   
   
