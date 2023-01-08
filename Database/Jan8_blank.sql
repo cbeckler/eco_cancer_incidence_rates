@@ -102,6 +102,7 @@ SELECT * FROM model_dataset
 
 -- Create table from null_df
 -- DROP TABLE model_null_dataset
+-- table name changed to null_model_dataset via alter table
 CREATE TABLE IF NOT EXISTS model_null_dataset (
 FIPS INT NOT NULL,
 recent_trend VARCHAR NOT NULL,
@@ -193,18 +194,17 @@ O3_med_pred_2009 FLOAT NOT NULL,
 O3_med_pred_2010 FLOAT NOT NULL,
 O3_med_pred_2011 FLOAT NOT NULL,
 O3_med_pred_2012 FLOAT NOT NULL,
-O3_med_pred_2013 FLOAT NOT NULL,
-O3_med_pred_2014 FLOAT NOT NULL
+O3_med_pred_2013 FLOAT NOT NULL
 );
 
-SELECT * FROM model_null_dataset
 
+ALTER TABLE model_null_dataset
+ADD O3_med_pred_2014 FLOAT NOT NULL;
+
+ALTER TABLE model_null_dataset
+RENAME TO null_model_dataset;
 	
-	
-	
-	
-	
-	
+SELECT * FROM null_model_dataset
 	
 	
 	
