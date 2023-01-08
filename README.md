@@ -10,7 +10,6 @@ While the cancer risk of air pollutants is considered a clear link, the link bet
 Our team's interest and experience in community health, and the environmental concerns that affect it, are what led us to create this project. We have scaled the data down to represent select counties in the United States.
 <BR>
 <HR>
-<BR>
 
   
 ### Communication Protocols
