@@ -47,8 +47,9 @@ Our team's interest and experience in community health, and the environmental co
 
 ### Machine Learning Model 
 The goal of the Machine Leanring Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The slection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of its ability to analyze the data and label the proper class.
-<BR>
-
+<BR><BR>
+<HR>
+ERD 
 <img width = 1000 src="https://github.com/cbeckler/final_project/blob/mg_SQL/ERD/model_dataset_erd.png">
   
   
