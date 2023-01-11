@@ -3,7 +3,7 @@
   
  ### Why we choose this project
 
-A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">cancer mortality risks from long-term Exposure to ambient fine particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) is associated with a higher risk of cancer in various organs. In fact, the study showed that every 10 µg/m3 of increased PM2.5 exposure <a href="https://www.aacr.org/patients-caregivers/progress-against-cancer/air-pollution-associated-cancer/">increased the risk of dying from cancer by 22%</a>.
+A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks From Long-term Exposure to Ambient Fine Particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) is associated with a higher risk of cancer in various organs. In fact, the study showed that every 10 µg/m3 of increased PM2.5 exposure <a href="https://www.aacr.org/patients-caregivers/progress-against-cancer/air-pollution-associated-cancer/">increased the risk of dying from cancer by 22%</a>.
 <BR><BR>
 While the cancer risk of air pollutants is considered a clear link, the link between <a href="https://www.nature.com/articles/s41370-019-0135-4">ozone exposure and cancer incidence isn't as straightforward</a>. Studies show that while ozone increases the risk of lunch cancer, exposure does not increase the risk or mortality of other cancers. 
 <BR><BR>
