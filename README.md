@@ -12,7 +12,9 @@ Our team's interest and experience in community health, and the environmental co
 <HR>
 
 <a name="backup">  
-### Communication Protocols
+
+###  
+  
 <strong>Type of data used:</strong><BR>
   • We are using <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
 <BR><BR>
