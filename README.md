@@ -11,7 +11,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 <HR>
 
-  
+<a name="backup">  
 ### Communication Protocols
 <strong>Type of data used:</strong><BR>
   • We are using <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
@@ -68,4 +68,5 @@ ERD Schema
 <BR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
+<a href="#backup"> Go back up</a>
 
