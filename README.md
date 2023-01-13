@@ -3,4 +3,4 @@
 
 ## Preliminary Dashboard
 
-![Image_name](Resources/preliminary_dashboard.png) 
+![Image_name](Resources/preliminary_dashboard2.png) 
