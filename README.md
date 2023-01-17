@@ -50,9 +50,18 @@ Our team's interest and experience in community health, and the environmental co
 ### Machine Learning Model 
 The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A classification is the best fit for our data. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class.
 <BR><BR>
+
+
+## Project Maps
+
+• Map here<BR>
+• Map here<BR>
+• Map here<BR>
+
+<BR><BR>
 <HR>
 ERD Schema
-<img width = 1000 src="https://github.com/cbeckler/final_project/blob/mg_SQL/ERD/model_dataset_erd.png">
+<img width = 800 src="https://github.com/cbeckler/final_project/blob/mg_SQL/ERD/model_dataset_erd.png">
   
   
   
