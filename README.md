@@ -70,14 +70,10 @@ ERD Schema
 ----
 <a name="sources">
 <BR>
-  
-  ### Data sources
-
-<a href="https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download">Cancer Mortality & Incidence Rates</a>
+Machine Learning Model Selection:
 <BR>
-<a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">County-Level PM2.5, All Years</a>
+The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of it's ability to analyze the data and label the proper class. 
 <BR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
 <a href="#backup"> Go back up</a>
-
