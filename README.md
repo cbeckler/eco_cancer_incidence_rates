@@ -61,7 +61,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <BR><BR>
 <HR>
 ERD Schema
-<img width = 800 src="https://github.com/cbeckler/final_project/blob/mg_SQL/ERD/model_dataset_erd.png">
+<img width = 800 src="https://github.com/cbeckler/final_project/blob/mg_SQL/Database/ERD/model_dataset_erd.png">
   
   
   
