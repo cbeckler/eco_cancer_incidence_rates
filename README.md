@@ -63,7 +63,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 ERD Schema
 <BR>
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">See ERD Scheme online </a>
-<img width = 400 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/prediction_ERD.png">
+<img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/prediction_ERD.png">
   
   
   
@@ -78,4 +78,8 @@ The input data is labeled so a supervised learning model was selected. To answer
 <BR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
+<a href="https://https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download>Cancer Mortality & Incidence Rates</a>
+<BR>
+<a href="*https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
+<BR>         
 <a href="#backup"> Go back up</a>
