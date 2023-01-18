@@ -41,8 +41,7 @@ Our team's interest and experience in community health, and the environmental co
  <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, machine learning, web development
 <BR>
  <a href="https://github.com/meggrooms">Meg Grooms</a> - ERD, database administator, slideshow
-<BR>[
- <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Machine learning/big data engineer, web development
+<BR><a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Machine learning/big data engineer, web development
 
 <BR>
 <HR>
