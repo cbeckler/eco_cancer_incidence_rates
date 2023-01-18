@@ -36,13 +36,13 @@ Our team's interest and experience in community health, and the environmental co
 • Meeting 2-3 times a week via Zoom  
 <BR>
 <strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler/final_project/tree/cb_etl">Charlie Beckler</a> - Project leader, ETL, data engineering
+<a href="https://github.com/cbeckler">Charlie Beckler</a> - Project leader, ETL, data engineering
 <BR>
  <a href="https://github.com/cbeckler/final_project/tree/kp_etl">Katia Paredes</a> - ETL, machine learning, web development
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - ERD, database administator, writer
+ <a href="https://github.com/cbeckler/final_project/tree/mg_SQL">Meg Grooms</a> - ERD, database administator, slideshow
 <BR>
- <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine learning/ big data engineer, web development
+ <a href="https://github.com/cbeckler/final_project/tree/cw_mlm"> Cassidy Ward</a> - Machine learning/big data engineer, web development
 
 <BR>
 <HR>
