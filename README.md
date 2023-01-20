@@ -63,8 +63,11 @@ ERD Schema
 <BR>
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">See ERD Scheme online </a>
 <img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png">
+<BR><BR>
+ 
+### <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
   
-  
+
   
   
   
