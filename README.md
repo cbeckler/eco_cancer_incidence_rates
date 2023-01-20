@@ -69,8 +69,10 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 ### <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
 
 <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Slideshow/slideshow_title.png"></a>
+<HR>
 
-  
+### <strong>Dashboard</strong>
+<BR>
   
   
 ----
@@ -82,6 +84,6 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <BR>
 <a href="https://https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download>Cancer Mortality & Incidence Rates</a>
 <BR>
-<a href="*https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
+<a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
 <BR>         
 <a href="#backup"> Go back up</a>
