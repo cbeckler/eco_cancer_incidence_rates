@@ -70,10 +70,7 @@ ERD Schema
   
 ----
 <a name="sources">
-<BR>
-Machine Learning Model Selection:
-<BR>
-The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of it's ability to analyze the data and label the proper class. 
+ 
 <BR>
 <HR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
