@@ -16,7 +16,7 @@ Our team's interest and experience in community health, and the environmental co
 ###  
   
 <strong>Type of data used:</strong><BR>
-  • We are using <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
+  • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
 <BR><BR>
  <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
@@ -36,12 +36,13 @@ Our team's interest and experience in community health, and the environmental co
 • Meeting 2-3 times a week via Zoom  
 <BR>
 <strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler">Charlie Beckler</a> - Project leader, ETL, data engineering
+<a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
 <BR>
- <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, machine learning, web development
+ <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
 <BR>
- <a href="https://github.com/meggrooms">Meg Grooms</a> - ERD, database administator, slideshow
-<BR><a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Machine learning/big data engineer, web development
+ <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
+<BR>
+ <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
 
 <BR>
 <HR>
