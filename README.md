@@ -75,6 +75,7 @@ Machine Learning Model Selection:
 <BR>
 The input data is labeled so a supervised learning model was selected. To answer the questions a classification is the best fit. Support Vector Machine (SVM) was then considered upon because of it's ability to analyze the data and label the proper class. 
 <BR>
+<HR>
  <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-Ozone-Concentrations-2001-2016/kmf5-t9yc">County-Level Ozone, All Years</a>
 <BR>
 <a href="https://https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download>Cancer Mortality & Incidence Rates</a>
