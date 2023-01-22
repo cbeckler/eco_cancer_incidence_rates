@@ -1,10 +1,9 @@
 
 # Predicting cancer incidence associated with environmental pollutants
 
-## Preliminary Dashboard
+## Visualization Map
 
-![Image_name](Resources/preliminary_map.png) 
+![Image_name](Resources/visualization_map.png) 
 
-![Image_name](Resources/preliminary_dashboard2.png) 
 
 
