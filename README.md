@@ -43,6 +43,14 @@ Our team's interest and experience in community health, and the environmental co
 <BR><BR> 
   
   
+<strong>Technologies</strong><BR>
+• Python / Pandas<BR>
+• Leaflet<BR>
+• SQL / ElephantSQL<BR>
+•  
+<BR><BR>
+  
+  
 <strong>Communication Methods</strong>
 <BR>
 • Slack for daily communication
