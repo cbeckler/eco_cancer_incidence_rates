@@ -4,20 +4,20 @@
  ### Why we choose this project
 
 A 2016 study out of Hong Kong, <a href="https://aacrjournals.org/cebp/article/25/5/839/71066/Cancer-Mortality-Risks-from-Long-term-Exposure-to">Cancer Mortality Risks From Long-term Exposure to Ambient Fine Particle</a>,  showed that long-term exposure to pollution rates of PM2.5 (ambient fine particulate matter) is associated with a higher risk of cancer in various organs. In fact, the study showed that every 10 µg/m3 of increased PM2.5 exposure <a href="https://www.aacr.org/patients-caregivers/progress-against-cancer/air-pollution-associated-cancer/">increased the risk of dying from cancer by 22%</a>.
-<BR><BR>
-While the cancer risk of air pollutants is considered a clear link, the link between <a href="https://www.nature.com/articles/s41370-019-0135-4">ozone exposure and cancer incidence isn't as straightforward</a>. Studies show that while ozone increases the risk of lunch cancer, exposure does not increase the risk or mortality of other cancers. 
-<BR><BR>
+
+
+<BR>
+While the cancer risk of air pollutants is considered a clear link, the link between <a href="https://www.nature.com/articles/s41370-019-0135-4">ozone exposure and cancer incidence isn't as straightforward</a>. Studies show that while ozone increases the risk of lung cancer, exposure does not increase the risk or mortality of other cancers. 
+<BR>
+  <BR>
 Our team's interest and experience in community health, and the environmental concerns that affect it, are what led us to create this project. We have scaled the data down to represent select counties in the United States.
 <BR>
 <HR>
 
+
 <a name="backup">  
 
 ###  
-  
-<strong>Type of data used:</strong><BR>
-  • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
-<BR><BR>
  <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
 <BR>
@@ -27,6 +27,30 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Is there a significant correlation between cancer incidence and ozone exposure?
 <BR><BR>
+  <strong> Team members and their roles:</strong><Br>
+<a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
+<BR>
+   <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
+<BR>
+ <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
+<BR>
+ <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
+
+<BR>
+  
+ <strong>Type of data used:</strong><BR>
+ • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
+<BR><BR> 
+  
+  
+<strong>Technologies</strong><BR>
+• Python / Pandas<BR>
+• Leaflet<BR>
+• SQL / ElephantSQL<BR>
+•  
+<BR><BR>
+  
+  
 <strong>Communication Methods</strong>
 <BR>
 • Slack for daily communication
@@ -35,16 +59,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Meeting 2-3 times a week via Zoom  
 <BR>
-<strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
-<BR>
- <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
-<BR>
- <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
-<BR>
- <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
 
-<BR>
 <HR>
 
 ### Machine Learning Model 
@@ -61,9 +76,9 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <BR><BR>
 <HR>
 
-<BR>
-  <strong> <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">ERD Schema Online </a> </strong>
-<img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png">
+  ###  <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">Full ERD Schema Online</a>
+
+<a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js"><img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png"></a>
 <BR><BR>
  
 ### <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
