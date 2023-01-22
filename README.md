@@ -15,9 +15,6 @@ Our team's interest and experience in community health, and the environmental co
 
 ###  
   
-<strong>Type of data used:</strong><BR>
-  • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
-<BR><BR>
  <Strong> Our mission is to predict the following:</strong> <br>
 • Do the levels of air particulate matter affect the number of cancer instances in the United States?
 <BR>
@@ -27,6 +24,12 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Is there a significant correlation between cancer incidence and ozone exposure?
 <BR><BR>
+  
+ <strong>Type of data used:</strong><BR>
+ • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
+<BR><BR> 
+  
+  
 <strong>Communication Methods</strong>
 <BR>
 • Slack for daily communication
