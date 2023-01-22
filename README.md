@@ -24,6 +24,16 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Is there a significant correlation between cancer incidence and ozone exposure?
 <BR><BR>
+  <strong> Team members and their roles:</strong><Br>
+<a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
+<BR>
+   <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
+<BR>
+ <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
+<BR>
+ <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
+
+<BR>
   
  <strong>Type of data used:</strong><BR>
  • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
@@ -38,16 +48,7 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
 • Meeting 2-3 times a week via Zoom  
 <BR>
-<strong> Team members and their roles:</strong><Br>
-<a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
-<BR>
-   <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
-<BR>
- <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
-<BR>
- <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
 
-<BR>
 <HR>
 
 ### Machine Learning Model 
