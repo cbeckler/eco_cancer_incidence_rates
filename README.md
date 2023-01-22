@@ -38,9 +38,9 @@ Our team's interest and experience in community health, and the environmental co
 <strong> Team members and their roles:</strong><Br>
 <a href="https://github.com/cbeckler">Charlie Beckler</a> - Team lead, engineer
 <BR>
- <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
+   <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
 <BR>
- <a href="https://github.com/meggrooms">Meg Grooms</a> - Database management, communications
+ <a href="https://github.com/katiarp">Katia Paredes</a> - ETL, modeling, web development
 <BR>
  <a href="https://github.com/cmwardcode"> Cassidy Ward</a> - Modeling, web development
 
