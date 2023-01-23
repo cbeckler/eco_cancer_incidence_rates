@@ -39,7 +39,9 @@ Our team's interest and experience in community health, and the environmental co
 <BR>
  
  ## Table of Contents
-
+1. Machine Learning Model<BR>
+2. Technologies<br>
+3. Machine Learning Visualization<BR>
 <hr>
   
   ### Machine Learning Model 
