@@ -55,8 +55,7 @@ Our team's interest and experience in community health, and the environmental co
 • Vercel<BR>
 • TeleportHQ<br>
 
-<BR><BR>
-  
+<BR>
   
 <strong>Communication Methods</strong>
 <BR>
