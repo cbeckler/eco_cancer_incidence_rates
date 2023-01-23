@@ -45,9 +45,16 @@ Our team's interest and experience in community health, and the environmental co
   
 <strong>Technologies</strong><BR>
 • Python / Pandas<BR>
+• PySpark <BR>
 • Leaflet<BR>
-• SQL / ElephantSQL<BR>
-•  
+• SQL
+• PostgreSQL / ElephantSQL<BR>
+• HTML / CSS<br>
+• JavaScript<BR>
+• Bootstrap<br>
+• Vercel<BR>
+• TeleportHQ<br>
+
 <BR><BR>
   
   
@@ -102,3 +109,6 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
 <BR>         
 <a href="#backup"> Go back up</a>
+                 
+                 
+
