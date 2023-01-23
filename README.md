@@ -104,13 +104,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
  ##  <a href="https://final-project.teleporthq.app/">Dashboard</a>
   
 <a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
-  
-  
-  
-  
-  
-  
-  
+    
 <HR> 
 
 ## <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
