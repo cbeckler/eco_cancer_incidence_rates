@@ -74,19 +74,19 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <BR><BR>
 <HR>
 
-  ###  <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">Entity Relationship Diagram</a>
+  ##  <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">Entity Relationship Diagram</a>
 
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js"><img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png"></a>
 <hr>
 
- ### Machine Learning Model
+ ## Machine Learning Model
   
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800>
  <hR>
   
   
   
- ###  <a href="https://final-project.teleporthq.app/">Dashboard</a>
+ ##  <a href="https://final-project.teleporthq.app/">Dashboard</a>
   
 <a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
   
@@ -98,7 +98,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
   
 <HR> 
 
-### <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
+## <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a>
 
 <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Slideshow/slideshow_title.png"></a>
 <HR>
