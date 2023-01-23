@@ -42,12 +42,13 @@ Our team's interest and experience in community health, and the environmental co
 1. Machine Learning Model<BR>
 2. Technologies<br>
 3. Communications<br>
-4. Machine Learning Visualization<BR>
-5. Dashboard<BR>
-6. Results<BR>
-7. Challenges<BR>
-8. Conclusion<BR>
-9. Slideshow
+4. Entity Relationship Diagram<BR>
+5. Machine Learning Visualization<BR>
+6. Dashboard<BR>
+7. Results<BR>
+8. Challenges<BR>
+9. Conclusion<BR>
+10. Slideshow
   
   
 <hr>
