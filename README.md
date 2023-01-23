@@ -38,6 +38,11 @@ Our team's interest and experience in community health, and the environmental co
 
 <BR>
   
+  ### Machine Learning Model 
+The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A classification is the best fit for our data. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class.
+<BR><BR>
+
+  
  <strong>Type of data used:</strong><BR>
  • We used <a href="#sources"> data sources</a> from Kaggle and the CDC, primarily in CSV form.
 <BR><BR> 
@@ -68,9 +73,6 @@ Our team's interest and experience in community health, and the environmental co
 
 <HR>
 
-### Machine Learning Model 
-The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A classification is the best fit for our data. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class.
-<BR><BR>
 
   
 
