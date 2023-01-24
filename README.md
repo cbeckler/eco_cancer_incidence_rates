@@ -98,7 +98,8 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
  ## Visualizations
  
 Machine Learning Visualization<BR>  
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800>
+<p align="center"
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800></p>
  <br><br>
   
 <p align="center">
@@ -107,7 +108,12 @@ Machine Learning Visualization<BR>
   
 <p align="center">
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png"></p>
-<BR>
+<BR><BR>
+
+<p align="center">
+  <strong>Cancer Incidence Rates by County </strong>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/visualization_map.png"></p>
+<BR><BR>
   
   
   
