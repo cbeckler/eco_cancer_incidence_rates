@@ -77,7 +77,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
   
 <a name="tech"><BR>
   
-<strong>Technologies</strong><BR>
+<h3>Technologies</h3>
 • Python / Pandas<BR>
 • PySpark <BR>
 • Leaflet<BR>
