@@ -101,6 +101,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 
 <BR><BR>
 <HR>
+<a name="ERD">
 
   ##  <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">Entity Relationship Diagram</a>
 
