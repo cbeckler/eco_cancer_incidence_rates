@@ -127,9 +127,11 @@ Machine Learning Visualization<BR>
 <table>
 <tr>
 <td width="50%">
-Though the model itself was not reliable, within the model it is clear ozone was more impactful than PM 2.5
+<h4>Though the model itself was not reliable, within the model it is clear ozone was more impactful than PM 2.5
+<BR>
 The year 2006 also appeared to be the most impactful year, followed by 2009.
-The chart represents years 7 and 9 of the 15 year time slice.
+<BR>
+The chart represents years 7 and 9 of the 15 year time slice.</h4>
   </td>
   
 <td width="50%">  
