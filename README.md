@@ -149,12 +149,23 @@ The chart represents years 7 and 9 of the 15 year time slice.</h4>
 <hr>
   
 <h2>Challenges</h2>  
-Write challenges here
+Using real data rather than a curated dataset always carries the risk of finding that the variables of interest do not have an actual relationship to the outcome label. Unfortunately, that seemed to be the case.<BR><BR>
+  
+This was compounded by an error in between the ETL and model development stages that caused the duplication of the dataset. The error resulted in a model that initially performed well, but was not caught and fixed until late in the project development process. <BR><BR>
+  
+An additional error was found with how the cancer and environmental datasets were linked. We were able to fix the problem, but this did not significantly improve model performance. <BR><BR>
+  
+Despite the challenges we faced, the final diagnosis of poor model performance is simply that the variables do not show a relationship. Alternate models and methods were tested with little to no improvement in results.
+
   
 <hr>
   
 <h2>Strengths</h2>
-Write strengths here
+Despite the big disappointment and curveball of realizing the model was weak very late in the project, the team all pulled together to present a flawed but interesting model
+The team took real risks with untested data, with datasets that were difficult to work with. Multiple separate, several million row datasets were aggregated and combined to form one cohesive model dataset
+Multiple models and methods were tested in a rigorous attempt to get a strong model
+The team used advanced visualization techniques to create our own webpage as a dashboard for the project with an interactive map with county data
+
   
 <hr>
   
