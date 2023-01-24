@@ -132,14 +132,14 @@ Machine Learning Visualization<BR>
 <p align="center">
   <strong>Cancer Incidence Rates by County </strong>
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/visualization_map.png"></p>
-<BR><BR>
-  
+<BR>
+ <a href="#TOC">Table of Contents<BR>
   
  <a name="dash"><BR>
  ##  <a href="https://final-project.teleporthq.app/">Interative Dashboard</a>
   
 <a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
-  
+  <a href="#TOC">Table of Contents
 <HR>  
   
 <a name="results"><BR>  
@@ -163,6 +163,7 @@ The chart represents years 7 and 9 of the 15 year time slice.</h4>
  </td>
 <tr>
   </table>
+  <a href="#TOC">Table of Contents
 
 
   
