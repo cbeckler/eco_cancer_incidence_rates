@@ -47,8 +47,9 @@ Our team's interest and experience in community health, and the environmental co
 6. Dashboard<BR>
 7. Results<BR>
 8. Challenges<BR>
-9. Conclusion<BR>
-10. Slideshow
+9. Strengths
+10. Conclusion<BR>
+11. Slideshow
   
   
 <hr>
