@@ -172,7 +172,8 @@ The team used advanced visualization techniques to create <a href="https://final
 <hr>
   
 <h2>Conclusion</h2>  
-Write conclusion here
+Although it was disappointing to not get a working model, the team put together an interesting project with strong engineering behind it. We also gained invaluable expertise of how to handle projects when major issues pop up and the data ends up being less than ideal.
+
   
   
 <hr>
