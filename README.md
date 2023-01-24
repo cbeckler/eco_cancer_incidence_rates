@@ -101,8 +101,8 @@ Machine Learning Visualization<BR>
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800>
  <br><br>
   
-Classes After SMOTE Resampling  
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png">
+<p align="center">
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png"></p>
 <BR>
   
   
