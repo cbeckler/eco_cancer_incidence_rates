@@ -116,7 +116,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <a name="viz"><br>  
  ## Visualizations
  
-Machine Learning Visualization<BR>  
+  <h3>Machine Learning Visualization</h3>  
 <p align="center"
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800></p>
  <br><br>
@@ -130,7 +130,7 @@ Machine Learning Visualization<BR>
 <BR><BR>
 
 <p align="center">
-  <h3><a href="https://katiarp.github.io/visualization_map/">Cancer Incidence Rates by County </h3></a>
+  <h3><a href="https://katiarp.github.io/visualization_map/">Interactive Map: Cancer Incidence Rates by County </h3></a>
 <a href="https://katiarp.github.io/visualization_map/">
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/visualization_map.png"></p></a>
 <BR>
