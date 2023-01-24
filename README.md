@@ -108,10 +108,26 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <HR>  
 <h2>Results</h2>  
 Write the results here  
+
   
+<hr>
+  
+<h2>Challenges</h2>  
+Write challenges here
+  
+<hr>
+  
+<h2>Strengths</h2>
+Write strengths here
+  
+<hr>
+  
+<h2>Conclusion</h2>  
+Write conclusion here
   
   
 <hr>
+  
   
 <h2><a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a></h2>
   
