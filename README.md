@@ -89,7 +89,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 • Vercel<BR>
 • TeleportHQ<br>
 
-  
+<a name="comm">  
 <h3>Communication Methods</h3>
 
 • Slack for daily communication
