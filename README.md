@@ -204,9 +204,7 @@ Although it was disappointing to not get a working model, the team put together 
   
 <a name="slide"><br>  
 <h2><a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a></h2>
-  
 
-<BR><BR>
 
   
   
