@@ -43,7 +43,7 @@ Our team's interest and experience in community health, and the environmental co
 2. Technologies<br>
 3. Communications<br>
 4. Entity Relationship Diagram<BR>
-5. Machine Learning Visualization<BR>
+5. Visualizations<BR>
 6. Dashboard<BR>
 7. Results<BR>
 8. Challenges<BR>
@@ -95,10 +95,12 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js"><img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png"></a>
 <hr>
 
- ## Machine Learning Model Visualization 
+ ## Visualizations
   
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800>
- <hR>
+ <br><br>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png">
+<BR>
   
   
   
