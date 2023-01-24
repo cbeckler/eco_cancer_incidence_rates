@@ -178,7 +178,8 @@ This was compounded by an error in between the ETL and model development stages 
   
 An additional error was found with how the cancer and environmental datasets were linked. We were able to fix the problem, but this did not significantly improve model performance. <BR><BR>
   
-Despite the challenges we faced, the final diagnosis of poor model performance is simply that the variables do not show a relationship. Alternate models and methods were tested with little to no improvement in results.
+Despite the challenges we faced, the final diagnosis of poor model performance is simply that the variables do not show a relationship. Alternate models and methods were tested with little to no improvement in results.<BR>
+<a href="#TOC">Table of Contents
 
   
 <hr>
@@ -191,8 +192,8 @@ Despite the disappointment and curveball of realizing the model was weak very la
 The team took real risks with untested data which were difficult to work with. Multiple separate, several million row, datasets were aggregated and combined to form one cohesive model dataset.<BR><BR>
   
 Multiple models and methods were tested in a rigorous attempt to get a strong model.
-The team used advanced visualization techniques to create <a href="https://final-project.teleporthq.app/">our own webpage</a> as a dashboard for the project with an interactive map with county data
-
+The team used advanced visualization techniques to create <a href="https://final-project.teleporthq.app/">our own webpage</a> as a dashboard for the project with an interactive map with county data.<BR>
+<a href="#TOC">Table of Contents
   
 <hr>
   
@@ -200,7 +201,7 @@ The team used advanced visualization techniques to create <a href="https://final
   
 <h2>Conclusion</h2>  
 Although it was disappointing to not get a working model, the team put together an interesting project with strong engineering behind it. We also gained invaluable expertise of how to handle projects when major issues pop up and the data ends up being less than ideal.
-
+<BR><a href="#TOC">Table of Contents
   
   
 <hr>
@@ -212,6 +213,7 @@ Although it was disappointing to not get a working model, the team put together 
   
   
 <a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Slideshow/slideshow_title.png"></a>
+<BR><a href="#TOC">Table of Contents
 <HR>
 
 
