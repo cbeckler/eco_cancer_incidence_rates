@@ -123,8 +123,23 @@ Machine Learning Visualization<BR>
   
 <HR>  
 <h2>Results</h2>  
-Write the results here  
+  
+<table>
+<tr>
+<td width="50%">
+Though the model itself was not reliable, within the model it is clear ozone was more impactful than PM 2.5
+The year 2006 also appeared to be the most impactful year, followed by 2009.
+The chart represents years 7 and 9 of the 15 year time slice.
+  </td>
+  
+<td width="50%">  
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/Feature_Importances_top10.png">
+ </td>
+<tr>
+  </table>
 
+
+  
   
 <hr>
   
