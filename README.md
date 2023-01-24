@@ -117,7 +117,7 @@ Machine Learning Visualization<BR>
   
   
   
- ##  <a href="https://final-project.teleporthq.app/">Dashboard</a>
+ ##  <a href="https://final-project.teleporthq.app/">Interative Dashboard</a>
   
 <a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
   
