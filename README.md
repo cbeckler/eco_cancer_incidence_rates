@@ -111,7 +111,7 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js"><img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png"></a>
 <hr>
-
+<a href="#TOC">Table of Contents
 
 <a name="viz"><br>  
  ## Visualizations
