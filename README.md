@@ -127,10 +127,13 @@ Machine Learning Visualization<BR>
 <table>
 <tr>
 <td width="50%">
-<h4>Though the model itself was not reliable, within the model it is clear ozone was more impactful than PM 2.5
-<BR>
+  
+<h4>Unfortunately, the model performed poorly, with a balanced accuracy score of 0.367, only slightly better than chance (0.333)
+In general, it tended to overpredict falling and rising labels, while also misclassifying some stable labels.
+<Br><BR>
+  
+Though the model itself was not reliable, within the model it is clear ozone was more impactful than PM 2.5
 The year 2006 also appeared to be the most impactful year, followed by 2009.
-<BR>
 The chart represents years 7 and 9 of the 15 year time slice.</h4>
   </td>
   
