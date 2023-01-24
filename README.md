@@ -101,13 +101,15 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
 
 <BR><BR>
 <HR>
-<a name="ERD">
+<a name="ERD"><BR>
 
   ##  <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js">Entity Relationship Diagram</a>
 
 <a href="https://app.quickdatabasediagrams.com/#/d/Bo92Js"><img width = 600 src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Database/ERD/Screenshot%202023-01-19%20at%201.59.26%20PM.png"></a>
 <hr>
 
+
+<a name="viz"><br>  
  ## Visualizations
  
 Machine Learning Visualization<BR>  
@@ -129,12 +131,14 @@ Machine Learning Visualization<BR>
 <BR><BR>
   
   
-  
+ <a name="dash"><BR>
  ##  <a href="https://final-project.teleporthq.app/">Interative Dashboard</a>
   
 <a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
   
 <HR>  
+  
+<a name="results"><BR>  
 <h2>Results</h2>  
   
 <table>
@@ -161,6 +165,7 @@ The chart represents years 7 and 9 of the 15 year time slice.</h4>
   
 <hr>
   
+<a name="chall"><BR>  
 <h2>Challenges</h2>  
 Using real data rather than a curated dataset always carries the risk of finding that the variables of interest do not have an actual relationship to the outcome label. Unfortunately, that seemed to be the case.<BR><BR>
   
@@ -173,6 +178,8 @@ Despite the challenges we faced, the final diagnosis of poor model performance i
   
 <hr>
   
+<a name="strengths"><BR>  
+  
 <h2>Strengths</h2>
 Despite the disappointment and curveball of realizing the model was weak very late in the project, the team pulled together to present a flawed but interesting model.<BR><BR>
   
@@ -184,6 +191,8 @@ The team used advanced visualization techniques to create <a href="https://final
   
 <hr>
   
+<a name="conc"><BR>  
+  
 <h2>Conclusion</h2>  
 Although it was disappointing to not get a working model, the team put together an interesting project with strong engineering behind it. We also gained invaluable expertise of how to handle projects when major issues pop up and the data ends up being less than ideal.
 
@@ -191,11 +200,11 @@ Although it was disappointing to not get a working model, the team put together 
   
 <hr>
   
-  
+<a name="slide"><br>  
 <h2><a href="https://docs.google.com/presentation/d/1th906EIn5OX-S-B3GdT8gL4d71oXpQRHXfPzZ-eeQrI/edit?usp=sharing">View the Slideshow</a></h2>
   
 
-<BR>
+<BR><BR>
 
   
   
@@ -213,7 +222,7 @@ Although it was disappointing to not get a working model, the team put together 
 <BR>
 <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
 <BR>         
-<a href="#backup"> Go back up</a>
+<a href="#backup"> Top of page</a>
                  
                  
 
