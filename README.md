@@ -161,10 +161,12 @@ Despite the challenges we faced, the final diagnosis of poor model performance i
 <hr>
   
 <h2>Strengths</h2>
-Despite the big disappointment and curveball of realizing the model was weak very late in the project, the team all pulled together to present a flawed but interesting model
-The team took real risks with untested data, with datasets that were difficult to work with. Multiple separate, several million row datasets were aggregated and combined to form one cohesive model dataset
-Multiple models and methods were tested in a rigorous attempt to get a strong model
-The team used advanced visualization techniques to create our own webpage as a dashboard for the project with an interactive map with county data
+Despite the disappointment and curveball of realizing the model was weak very late in the project, the team pulled together to present a flawed but interesting model.<BR><BR>
+  
+The team took real risks with untested data which were difficult to work with. Multiple separate, several million row, datasets were aggregated and combined to form one cohesive model dataset.<BR><BR>
+  
+Multiple models and methods were tested in a rigorous attempt to get a strong model.
+The team used advanced visualization techniques to create <a href="https://final-project.teleporthq.app/">our own webpage</a> as a dashboard for the project with an interactive map with county data
 
   
 <hr>
