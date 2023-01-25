@@ -70,7 +70,9 @@ Our team's interest and experience in community health, and the environmental co
  <a name="MLM"><BR>
  
 <h3> Machine Learning Model </h3>
-The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A classification is the best fit for our data. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class.<BR>
+The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A trinary classification is the best fit for our data so any models with only binary classification were out. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class but was outperformed by Balanced Random Forest.<BR>
+Test and train data were split using test_trains_split, stratified on the Y axis. Training data was then resampled with SMOTE to correct for the imbalanced labels.
+<BR>
 <a href="#TOC">Table of Contents
 <BR><BR>
  <h4>Type of data used:</h4>
