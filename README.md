@@ -137,6 +137,8 @@ Test and train data were split using test_trains_split, stratified on the Y axis
 <a href="https://katiarp.github.io/visualization_map/">
 <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/visualization_map.png"></p></a>
 <BR>
+The code for the leaflet map can be found in <a href="https://github.com/katiarp/visualization_map">this</a> repository.
+<BR>
  <a href="#TOC">Table of Contents<BR>
   
  <a name="dash"><BR>
