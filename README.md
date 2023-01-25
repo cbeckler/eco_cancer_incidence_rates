@@ -227,7 +227,5 @@ Although it was disappointing to not get a working model, the team put together 
 <a href="https://https://www.kaggle.com/datasets/thedevastator/us-county-level-cancer-mortality-and-incidence-r?resource=download>Cancer Mortality & Incidence Rates</a>
 <BR>
 <a href="https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9">Daily PM2.5 Concentrations, All Counties</a>
-<BR>         
-<a href="#backup"> Top of page</a>
-                
-
+<BR>     
+<a href="#backup"> Top of page</a> 
