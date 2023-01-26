@@ -70,7 +70,10 @@ Our team's interest and experience in community health, and the environmental co
  <a name="MLM"><BR>
  
 <h3> Machine Learning Model </h3>
-The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A classification is the best fit for our data. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class.<BR>
+The goal of the Machine Learning Model is to ingest the inputs of all counties IDs/FIPS along with the max, min, and mean values for both air pollutants (PM) and Ozone (oz) and the cancer incidence trends associated for years 2001-2014. The model will then predict and output future trends of cancer incidence for each location. The selection of a machine learning model was based on several factors. The input data is labeled so a supervised learning model was selected. A trinary classification is the best fit for our data so any models with only binary classification were out. Support Vector Machine (SVM) was also considered because of its ability to analyze the data and label the proper class but was outperformed by Balanced Random Forest.<BR>
+<BR>
+Test and train data were split using test_trains_split, stratified on the Y axis. Training data was then resampled with SMOTE to correct for the imbalanced labels.
+<BR>
 <a href="#TOC">Table of Contents
 <BR><BR>
  <h4>Type of data used:</h4>
@@ -117,29 +120,34 @@ The goal of the Machine Learning Model is to ingest the inputs of all counties I
  ## Visualizations
  
   <h3>Machine Learning Visualization</h3>  
-<p align="center"
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" height=800></p>
- <br><br>
-  
 <p align="center">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_before_resampling.png"></p>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" width = 800>
+  </p>
   <BR><BR>
   
 <p align="center">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png"></p>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/classes_before_resampling.png"></p>
+  <BR><BR>
+  
+<p align="center">
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/classes_after_resampling1.png"></p>
 <BR><BR>
 
 <p align="center">
   <h3><a href="https://katiarp.github.io/visualization_map/">Interactive Map: Cancer Incidence Rates by County </h3></a>
 <a href="https://katiarp.github.io/visualization_map/">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/visualization_map.png"></p></a>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/visualization_map.png"></p></a>
+<BR>
+The code for the leaflet map can be found in <a href="https://github.com/katiarp/visualization_map">this</a> repository.
 <BR>
  <a href="#TOC">Table of Contents<BR>
+ 
+ 
+ 
+ 
+ ##  <a href="https://ecocancerincidencerates.vercel.app/">Interative Dashboard</a>
   
- <a name="dash"><BR>
- ##  <a href="https://final-project.teleporthq.app/">Interative Dashboard</a>
-  
-<a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
+<a href="https://ecocancerincidencerates.vercel.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Webpage/Images/webpage_shot.png"></a>
   <a href="#TOC">Table of Contents
 <HR>  
   
