@@ -147,8 +147,11 @@ The code for the leaflet map can be found in <a href="https://github.com/katiarp
  
  ##  <a href="https://ecocancerincidencerates.vercel.app/">Interative Dashboard</a>
   
-<a href="https://ecocancerincidencerates.vercel.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Webpage/Images/webpage_shot.png"></a>
-  <a href="#TOC">Table of Contents
+<a href="https://ecocancerincidencerates.vercel.app/">Website</a>
+   
+ <img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Webpage/Images/webpage_shot.png">
+ 
+<a href="#TOC">Table of Contents
 <HR>  
   
 <a name="results"><BR>  
