@@ -121,7 +121,7 @@ Test and train data were split using test_trains_split, stratified on the Y axis
  
   <h3>Machine Learning Visualization</h3>  
 <p align="center">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png">
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/tree2.png" width = 800>
   </p>
   <BR><BR>
   
