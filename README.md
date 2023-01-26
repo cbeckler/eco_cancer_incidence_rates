@@ -141,11 +141,13 @@ Test and train data were split using test_trains_split, stratified on the Y axis
 The code for the leaflet map can be found in <a href="https://github.com/katiarp/visualization_map">this</a> repository.
 <BR>
  <a href="#TOC">Table of Contents<BR>
+ 
+ 
+ 
+ 
+ ##  <a href="https://ecocancerincidencerates.vercel.app/">Interative Dashboard</a>
   
- <a name="dash"><BR>
- ##  <a href="https://final-project.teleporthq.app/">Interative Dashboard</a>
-  
-<a href="https://final-project.teleporthq.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/WebDev/Webpage/Prototype/dashboard.png"></a>
+<a href="https://ecocancerincidencerates.vercel.app/"><img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Webpage/Images/webpage_shot.png"></a>
   <a href="#TOC">Table of Contents
 <HR>  
   
