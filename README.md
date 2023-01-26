@@ -125,11 +125,11 @@ Test and train data were split using test_trains_split, stratified on the Y axis
  <br><br>
   
 <p align="center">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_before_resampling.png"></p>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/classes_before_resampling.png"></p>
   <BR><BR>
   
 <p align="center">
-<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/kp_dashboard/Resources/classes_after_resampling1.png"></p>
+<img src="https://github.com/cbeckler/eco_cancer_incidence_rates/blob/main/Resources/classes_after_resampling1.png"></p>
 <BR><BR>
 
 <p align="center">
